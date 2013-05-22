@@ -6,6 +6,9 @@ a {
   color: rgb(60, 132, 139);
 }
 
+li {
+  color: #999999;
+}
 
 .carousel-caption {
   text-align: center;
