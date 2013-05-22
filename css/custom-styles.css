@@ -2,8 +2,14 @@
    Insert Your Custom Styles Below. All styles located in this file will
    override existing main.css stylesheets.
    ========================================================================== */ 
+a {
+  color: rgb(60, 132, 139);
+}
+
+
 .carousel-caption {
   text-align: center;
+  max-width: none;
 }
 
 .center {
