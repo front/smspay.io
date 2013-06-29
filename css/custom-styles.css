@@ -20,3 +20,11 @@ li {
   margin-left: auto; 
   margin-right: auto; 
 }
+
+.well-large {
+  border-radius: 0;
+}
+
+#services h2 {
+  color: white;
+}

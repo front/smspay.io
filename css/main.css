@@ -339,23 +339,7 @@ a.login {
 
 /*------Header Image One---------*/
 .one {
-  background: url(../img/header1.jpg) no-repeat center center;
-  background-size: cover;
-}
-
-
-/*------Header Image Two---------*/
-
-.two {
-  background: url(../img/header2.jpg) no-repeat center center;
-  background-size: cover;
-}
-
-
-/*------Header Image Three---------*/
-
-.three {
-  background: url(../img/header3.jpg) no-repeat center center;
+  background: url(../img/smspaying-girl.jpg) no-repeat center center;
   background-size: cover;
 }
 
