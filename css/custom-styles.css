@@ -25,6 +25,19 @@ li {
   border-radius: 0;
 }
 
+iframe {
+  min-height: 400px;
+  height: auto;
+  margin-bottom: 15px;
+  max-width: 780px;
+}
+
 #services h2 {
   color: white;
+}
+
+@media (max-width: 640px) {
+  iframe {
+    min-height: 200px;
+  }
 }
