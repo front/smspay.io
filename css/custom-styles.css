@@ -32,9 +32,9 @@ iframe {
   max-width: 780px;
 }
 
-#services h2 {
+/*#services h2 {
   color: white;
-}
+}*/
 
 @media (max-width: 640px) {
   iframe {
